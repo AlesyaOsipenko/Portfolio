@@ -683,7 +683,7 @@ section .row span {
   flex-wrap: wrap;
 }
 #projects .project-wrapper__image {
-  width: 90%;
+  width: 50%;
   margin: 0 auto;
 }
 @media (max-width: 75em) {
